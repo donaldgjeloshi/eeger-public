@@ -1,0 +1,1 @@
+.square{width:50%;border-style:solid;border-color:coral}.square:after{content:"";display:block;padding-bottom:100%}

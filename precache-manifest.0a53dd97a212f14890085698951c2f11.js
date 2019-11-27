@@ -1,14 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbec9459b5985e85da1d",
-    "url": "/eeger-public/css/app.4b23a82c.css"
+    "revision": "a373ae631c23d24f1189",
+    "url": "/eeger-public/css/app.7a8fb077.css"
+  },
+  {
+    "revision": "21a9992f162e5232e566",
+    "url": "/eeger-public/css/record.de1e6d0f.css"
   },
   {
     "revision": "82b9c7a5a3f405032b1db71a25f67021",
     "url": "/eeger-public/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "50d4a69f4f860c0edfb4d743bf7c940d",
+    "revision": "9e53ea419d43fa5bd9e2b985ad067da5",
     "url": "/eeger-public/index.html"
   },
   {
@@ -16,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eeger-public/js/about.250eba26.js"
   },
   {
-    "revision": "bbec9459b5985e85da1d",
-    "url": "/eeger-public/js/app.a43b591f.js"
+    "revision": "a373ae631c23d24f1189",
+    "url": "/eeger-public/js/app.b62a2805.js"
   },
   {
-    "revision": "abe95cb96cceb85566d9",
-    "url": "/eeger-public/js/chunk-vendors.ddd1ae75.js"
+    "revision": "217bd1bc8b02ef3cbac7",
+    "url": "/eeger-public/js/chunk-vendors.2202b159.js"
+  },
+  {
+    "revision": "21a9992f162e5232e566",
+    "url": "/eeger-public/js/record.fef62e1b.js"
   },
   {
     "revision": "764d92c3c1e4b0de2f764dae48e87f3a",
