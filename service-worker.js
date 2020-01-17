@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eeger-public/precache-manifest.49ade051cf2769e4725776386438ec9f.js"
+  "/eeger-public/precache-manifest.74cd2e67345e265ceadc5c278dfb02a0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "eeger"});
